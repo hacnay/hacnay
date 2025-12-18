@@ -1,21 +1,48 @@
-# 💫 About Me:
- Hi, I’m @subhang<br>I’m interested in coding, learning new things, and love cooking. ...<br>I’m currently learning Data science and computer science ...<br>I’m looking to collaborate on projects and trainings ...<br>How to reach me by Subhangkumar@outlook.com ...<br>I live in Lucknow.
+# 👋 Hi, I'm Subhang Kumar
 
+🚀 **Tech Founder | Full-Stack Developer | System Builder**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hacnay) 
+I’m a B.Tech IT graduate (2023) passionate about building **real-world software products** — not just demos.  
+I focus on **scalable systems, automation, and clean engineering**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hacnay&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hacnay&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacnay&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently working on:
+- **Enterprise & SaaS products**
+- **AI-powered automation tools**
+- **Backend-heavy, performance-focused applications**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+📍 Based in **Lucknow, India**
+
+📫 Reach me at **SubhangKumar@outlook.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hacnay&icon=6&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Work On
+- Building **end-to-end products** (idea → MVP → production)
+- Backend systems, APIs, databases
+- Automation & AI integrations
+- Clean architecture & system design
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhang_Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hacnay)
+
+---
+
+## 💻 Tech Stack
+Java • Python • JavaScript  
+Spring Boot • FastAPI • React  
+PostgreSQL • MongoDB  
+Docker • Git • Linux • AWS
+
+
+**Also Working With**
+- REST APIs
+- Databases & backend services
+- Cloud & automation tools
+- Git & system workflows
+
+---
+
+## ✨ Philosophy
+> Build less. Build **better**. Build things that actually **solve problems**.
